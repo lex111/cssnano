@@ -53,7 +53,6 @@ module.exports = function (api) {
           'lerna:postcss-unique-selectors': 'postcss-unique-selectors',
           'lerna:postcss-zindex': 'postcss-zindex',
           'lerna:stylehacks': 'stylehacks',
-          'lerna:cssnano-util-raw-cache': 'cssnano-util-raw-cache',
         },
       },
     ]);
